@@ -3,6 +3,8 @@
 ## Description
 Welcome to the repository for **Pizera**, the cutting-edge Fortnite cheat designed to take your gameplay to the next level. Packed with powerful features like aimbot, wallhack, and speed enhancements, Pizera offers unrivaled precision and control in every match. Its undetectable and user-friendly interface ensures a seamless experience, giving you the ultimate edge over your competition.
 
+![Preview 346358255](/assets/Fortnite.jpg)
+
 ## Features
 - **Aimbot**: Enhance your aiming skills with the precision of an aimbot.
 - **Wallhack**: See through walls and obstacles to track your enemies effortlessly.
